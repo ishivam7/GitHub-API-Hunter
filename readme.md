@@ -55,15 +55,13 @@ GitHub-API-Hunter/
 
 https://github.com/ishivam7/GitHub-API-Hunter
 
-# live link
 
-https://git-hub-api-hunter.vercel.app/
 
 
 
 
 #  Screenshots
-![Home Page](liveimage.png)
+![Home Page](GITHUB-API-HUNTER/liveimage.png)
 
 
 # Future Improvements
