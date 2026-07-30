@@ -61,7 +61,7 @@ https://github.com/ishivam7/GitHub-API-Hunter
 
 
 #  Screenshots
-![Home Page](GITHUB-API-HUNTER/liveimage.png)
+![Home Page](liveimage.png)
 
 
 # Future Improvements
